@@ -1,1 +1,1 @@
-This is a project on AirBnB clone - MYSQL
+This is a project on AirBnB clone - MYSQL, web static
